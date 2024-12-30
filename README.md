@@ -1,7 +1,15 @@
+<div align="right">
+<a style="text-decoration: none" target="_blank"href="https://github.com/atul21mangla">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Abhijeettttttt.Abhijeettttttt&left_color=gray&right_color=blue&left_text=Total%20Coders%20Visited">
+</a>  
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/atul-mangla-05117b275/" >
+<img width="80"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+</a>
+</div>
 
+<br>
 
-<h1 align="center">Hi 👋, I'm Atul Mangla</h1>
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Atul+Mangla!;" />
 
    ## **👨‍💻 About Me**
 
